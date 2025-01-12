@@ -42,4 +42,8 @@ To get started, visit the Language learning section in the Speech Studio. Here, 
 
 For developers interested in integrating these features into applications, Azure provides a Pronunciation Assessment API through the Speech SDK. This API enables the evaluation of speech pronunciation, offering feedback on accuracy, fluency, and other critical aspects, facilitating the development of applications that support language learners in improving their pronunciation skills.
 
-Please note that the language learning feature currently supports only en-US. For the most up-to-date information on supported languages and regions, refer to the official documentation.
+![image](https://github.com/user-attachments/assets/0d7c0356-d292-45a4-b656-21f7cbf7c473)
+
+![image](https://github.com/user-attachments/assets/c0c38296-c6ce-44cd-89b2-4caca2eb1feb)
+
+
