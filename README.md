@@ -1,4 +1,4 @@
-# Azure-AI-Language-learning
+# Azure-AI-Language-Learning
 
 Interactive language learning with pronunciation assessment![image](https://github.com/user-attachments/assets/283eb277-b8d6-46f7-9114-ec7d479c31ff)
 Azure AI's Speech service offers an interactive language learning feature that provides real-time pronunciation assessment to enhance language acquisition. This tool delivers immediate feedback on various aspects of speech, including:
